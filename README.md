@@ -1,23 +1,24 @@
-# How to Run This Project
+# 🚀 How to Run This Project
 
-1. Clone the repository
-```bash
+## 1. Clone the Repository
 git clone https://github.com/Istiyak-Ishan/credit-risk-scoring-practicing-linear_regression-.git
 
-2. Go inside the folder
+## 2. Move into the Project Folder
 cd credit-risk-scoring-practicing-linear_regression-
 
-3. Create virtual environment (recommended)
+## 3. Create a Virtual Environment (Recommended)
 python -m venv venv
 
-4. Activate virtual environment
-Windows (PowerShell)
+## 4. Activate the Virtual Environment (Windows PowerShell)
 venv\Scripts\Activate.ps1
 
-5. Install dependencies
+## 5. Install Required Dependencies
 pip install -r requirements.txt
 
-6. Run notebooks / scripts
+## 6. Run the Project
+
+Option A: Open Jupyter Notebook
 jupyter notebook
-or
+
+Option B: Run Python Script
 python main.py
